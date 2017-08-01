@@ -7,7 +7,14 @@
 
 图片可能有点多.
 
+我国服id ：2757747
+
 ![](https://i.loli.net/2017/08/01/597ffc4773328.jpg)
+
+
+ps脚本：
+自己随便写写的，用来扣崩坏2的图片用的.
+请把素材和_Alpha文件放在同一文件夹
 
 
 ``` bash
@@ -20,3 +27,5 @@ npm run dev
 # 编译发布
 npm run build
 
+# License
+MIT license
