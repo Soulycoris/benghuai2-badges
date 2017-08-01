@@ -9,6 +9,9 @@
 
 我国服id ：2757747
 
+run dev出现问题可能是sass的问题
+运行一下 npm install node-sass sass-loader --save-dev
+
 ![](https://i.loli.net/2017/08/01/597ffc4773328.jpg)
 
 
